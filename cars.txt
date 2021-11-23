@@ -1,0 +1,12 @@
+﻿Toyota: Camry
+Toyota: Corolla
+BMW: 5 Series
+Toyota: 
+Tesla: Cybertruck
+BMW: 7 Series
+BMW: Z4 (G29)
+Tesla: Models S
+Toyota: Hilux
+Toyota Land Cruiser
+Tesla: Model 3
+Toyota: Tundra
