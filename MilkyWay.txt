@@ -1,0 +1,16 @@
+﻿star: Sirius
+planet: Mercury
+star: Canopus
+planet: Venus
+star: Sun
+planet: Earth
+star: Alpha Centauri A
+planet: Mars
+star: Arcturus 
+planet: Jupiter
+star: Procyon
+planet: Saturn
+star: Vega
+planet: Uranus
+star: Rigel
+planet: Neptune
